@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yash (@ypise)
 - 👀 I’m interested in collaboration
-- 🌱 I’m currently learning GoLang and Kubernetes
-- 💞️ I’m looking to collaborate on GoLang
+- 🌱 I’m currently learning Kubernetes
+- 💞️ I’m looking to collaborate for DevOps
 - 📫 How to reach me ...
 
 <!---
